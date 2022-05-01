@@ -7,7 +7,7 @@
 - [x] Nodej.Js
 
 
-## Installation For Windows
+## Installation for Windows
 
 -    Install [Node.js](https://nodejs.org/en/)
     
