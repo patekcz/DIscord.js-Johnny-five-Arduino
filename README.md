@@ -2,9 +2,9 @@
 - This is a discord boot that allows you to control the Arduino
 
 ## Uses
-- [x] Discord.Js
+- [x] Discord.js
 - [x] johnny-five
-- [x] Nodej.Js
+- [x] Node.js
 
 
 ## Installation for Windows
