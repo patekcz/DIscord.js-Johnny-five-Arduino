@@ -16,8 +16,9 @@
 -    Open cmd
     
     git clone https://github.com/patekcz/DIscord.js-Johnny-five-Arduino.git
-    
+- 
     cd DIscord.js-Johnny-five-Arduino
-    
+- 
+
     node .
 
