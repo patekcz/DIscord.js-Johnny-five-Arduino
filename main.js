@@ -1,8 +1,9 @@
-//
+// 
 // Create by patek_cz 
 // https://dsc.gg/qverlix
 // 
 
+// discord.js v13
 
 
 // Modules
@@ -21,8 +22,8 @@ Client.login('HERE TOKEN')
 board.on('ready', () => {
   const led = new five.Led(13); // Arduino port 13 Led.(13);
   Client.on('message', message => {
-    if (message.content === 'led on') led.off()
-    else if (message.content === 'led off') led.on()
+    if (message.content === 'led on') led.on()
+    else if (message.content === 'led off') led.off()
   });
 });
 
