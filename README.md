@@ -19,6 +19,8 @@
     
     cd DIscord.js-Johnny-five-Arduino
     
+    npm install    
+
     node main.js
 
 
